@@ -1,0 +1,9 @@
+echo ".Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+*.tmp
+*.swp
+*.bak" > .gitignore
